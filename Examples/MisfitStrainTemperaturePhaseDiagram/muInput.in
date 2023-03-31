@@ -1,0 +1,17 @@
+{
+  "System":"Film",
+  "Temperature":298,
+  "XF":0.05,
+  "LElastic":"True",
+  "LElectric":"True",
+  "LPolar":"True",
+  "LRotate":"True",
+  "RotAngles":[0, 0, 0],
+  "Property":["Polarization"],
+  "SweepList":[[100,600,10], [-0.03,0.03,0.0025]],
+  "SweepParameters":["Temperature", "Isotropic Misfit"],
+  "Solver":"Simulated Annealing",
+  "SolverError":1e-8,
+  "SolverIterations":500,
+  "DataOutputName":"PhaseDiagram"
+}
