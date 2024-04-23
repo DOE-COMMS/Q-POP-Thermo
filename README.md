@@ -1,3 +1,10 @@
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DOE-COMMS/Q-POP-Thermo/total)
+![GitHub release version](https://img.shields.io/github/v/release/DOE-COMMS/Q-POP-Thermo?color=%2350C878&include_prereleases)
+![License](https://img.shields.io/github/license/DOE-COMMS/Q-POP-Thermo)
+![GitHub Size](https://img.shields.io/github/repo-size/DOE-COMMS/Q-POP-Thermo)
+![HitCount](https://hits.dwyl.com/DOE-COMMS/Q-POP-Thermo.svg?style=flat-square&show=unique)
+![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FDOE-COMMS%2FQ-POP-Thermo.json&label=total%20hits&color=pink)
+
 # Q-POP-Thermo: A Thermodynamic Solver for Ferroic and Quantum Materials
 
 ## Overview
