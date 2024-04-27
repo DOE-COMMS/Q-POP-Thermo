@@ -5,8 +5,18 @@
 ![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FDOE-COMMS%2FQ-POP-Thermo.json&label=total%20hits&color=pink)
 
 # Q-POP-Thermo: A Thermodynamic Solver for Ferroic and Quantum Materials
+1. [Overview](#Overview)
+2. [Acknowledgements](#Thanks)
+3. [Motivation](#Motivate)
+4. [Using Q-POP-Thermo](#Using)
+5. [Examples](#Examples)
+6. [Future Works](#Future)
+7. [Citing Q-POP-Thermo](#Citing)
+8. [Licensing](#License)
+9. [Library and Module Information](#LibraryInfo)
 
 ## Overview
+# <a name="Overview"></a>
 
 Q-POP-Thermo was developed as part of U.S. Department of Energy Award No. DE-SC0020145 for solving the thermodynamic approximations of ferroelectric systems, both in bulk and thin film boundary conditions. The software allows researchers not fluent in programming to generate accurate approximations of ferroelectric properties and domain structures. The long-term goal of Q-POP-Thermo is to provide speedy and accurate approximations of material systems and their microstructures to reduce the number of phase-field simulations to eludicate material phase diagrams. 
 
@@ -16,14 +26,6 @@ At current, the software calculate monodomain and polydomain approximations of f
 # <a name="Thanks"></a>
 
 This development of the software was supported as part of the Computational Materials Sciences Program funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences, under Award No. DE-SC0020145.
-
-1. [Motativation](#Motivate)
-2. [Using Q-POP-Thermo](#Using)
-2. [Examples](#Examples)
-3. [Future Works](#Future)
-3. [Citing Q-POP-Thermo](#Citing)
-4. [Licensing](#License)
-5. [Library and Module Information](#LibraryInfo)
 
 ## Motivation 
 # <a name="Motivate"></a>
