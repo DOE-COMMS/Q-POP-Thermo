@@ -1,4 +1,3 @@
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DOE-COMMS/Q-POP-Thermo/total)
 ![GitHub release version](https://img.shields.io/github/v/release/DOE-COMMS/Q-POP-Thermo?color=%2350C878&include_prereleases)
 ![License](https://img.shields.io/github/license/DOE-COMMS/Q-POP-Thermo)
 ![GitHub Size](https://img.shields.io/github/repo-size/DOE-COMMS/Q-POP-Thermo)
@@ -13,12 +12,16 @@ Q-POP-Thermo was developed as part of U.S. Department of Energy Award No. DE-SC0
 
 At current, the software calculate monodomain and polydomain approximations of ferroelectric thin films and bulk single crystals under various boundary conditions and external fields (i.e. thermal, mechanically clamped, mechanically stressed, electric fields, etc.). Additional systems, such as metal-insulator transitions (MIT, e.g. Vanadium Oxide (VO<sub>2</sub>)), structural transitions, electronic transitions, and ferroelastics are in development. 
 
+## Acknowlegments
+# <a name="Thanks"></a>
+
+This development of the software was supported as part of the Computational Materials Sciences Program funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences, under Award No. DE-SC0020145.
+
 1. [Motativation](#Motivate)
 2. [Using Q-POP-Thermo](#Using)
 2. [Examples](#Examples)
 3. [Future Works](#Future)
 3. [Citing Q-POP-Thermo](#Citing)
-3. [Acknowlegments](#Thanks)
 4. [Licensing](#License)
 5. [Library and Module Information](#LibraryInfo)
 
@@ -57,11 +60,6 @@ There are a variety of additions that we intend to make to Q-POP-Thermo in the f
 If you utilize Q-POP-Thermo in your research, please cite the following manuscript: 
 
 Zorn, J.A., et al. "Q-POP-Thermo: A general-purpose thermodynamics solver for ferroelectric materials" *Computer Physics Communications* **[275]** (2022) 108302
-
-## Acknowlegments
-# <a name="Thanks"></a>
-
-This development of the software was supported as part of the Computational Materials Sciences Program funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences, under Award No. DE-SC0020145.
 
 ## Licensing
 # <a name="License"></a>
